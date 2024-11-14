@@ -2,7 +2,9 @@
 
 I'm a CS student from the UK passionate about coding challenges, functional programming and compilers.
 
-Check out [my website](https://luc-wallace.github.io)!
+[My Website](https://luc-wallace.github.io) • [Codecrack Showcase](https://www.youtube.com/watch?v=IVzXDt7tmTY) • [YouTube Channel](https://www.youtube.com/@lucwallace4308)
+
+![Project Euler](https://projecteuler.net/profile/lucwallace.png)
 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luc-wallace&theme=transparent&rank_icon=github" />
