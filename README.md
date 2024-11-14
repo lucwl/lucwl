@@ -1,5 +1,9 @@
 ## Welcome to my GitHub page!
 
+I'm a CS student from the UK passionate about coding challenges, functional programming and compilers.
+
+Check out [my website](https://luc-wallace.github.com)!
+
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luc-wallace&theme=transparent&rank_icon=github" />
   <img width="10" />
