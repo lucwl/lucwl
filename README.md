@@ -1,4 +1,4 @@
-## Welcome to my GitHub page!
+## Welcome to my GitHub page! 🖥️
 
 I'm a CS student from the UK passionate about coding challenges, functional programming and compilers.
 
