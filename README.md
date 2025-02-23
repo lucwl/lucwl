@@ -2,7 +2,7 @@
 
 I'm a CS student from the UK passionate about coding challenges, functional programming and compilers.
 
-[My Website](https://luc-wallace.github.io) • [YouTube Channel](https://www.youtube.com/@lucwallace4308)
+[My Website](https://luc-wallace.github.io) • [YouTube Channel](https://www.youtube.com/@lucwallace)
 
 <a href="https://github.com/luc-wallace">
   <span>
