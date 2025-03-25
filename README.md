@@ -1,13 +1,11 @@
-## Welcome to my GitHub page!
+## Welcome!
 
 I'm a CS student from the UK passionate about coding challenges, functional programming and compilers.
 
-[My Website](https://luc-wallace.github.io) • [YouTube Channel](https://www.youtube.com/@lucwallace)
+[My Website](https://lucwl.github.io) • [YouTube Channel](https://www.youtube.com/@lucwallace)
 
-<a href="https://github.com/luc-wallace">
-  <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luc-wallace&theme=transparent&rank_icon=github" />
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucwl&theme=transparent&rank_icon=github" />
   <img width="10" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-wallace&hide=html,css&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwl&hide=html,css&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </span>
-</a>
